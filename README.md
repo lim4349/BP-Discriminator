@@ -81,9 +81,10 @@
 #### 실험 결과
 [![no-earlystopping.png](https://i.postimg.cc/GhwCzQCX/no-earlystopping.png)](https://postimg.cc/JtqvzjtX)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Early Stopping을 설정하지 않고 실행한 성능 결과
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Early Stopping을 설정하지 않고 실행한 성능 결과
 
 &nbsp;  
+  &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
@@ -91,7 +92,7 @@
   
 [![earlystopping.png](https://i.postimg.cc/sXhLZkvs/earlystopping.png)](https://postimg.cc/xJ95wFv4)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Early Stopping을 설정하고 실행한 성능 결과
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Early Stopping을 설정하고 실행한 성능 결과
 
 
 참고 및 데이터셋 출처
