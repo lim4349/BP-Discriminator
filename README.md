@@ -34,9 +34,12 @@
 
 
 #### 개발 내용(간략히)
-목 초음파 이미지에서 신경부위 세그멘테이션을 하는 모델을 만드는 것이다. 모델의 성능(정확도)을 향상시키기 위해 여러 시도를 하였다.
+목 초음파 이미지에서 신경부위 세그멘테이션을 하는 모델을 만드는 것과 모델의 성능(정확도)을 향상시키기 위해 여러가지 환경을 변화시키면서 이를 연구하는 것.
+
 -- Train data set : 11270
+
 -- Test data set: 5508
+
 - Batch Size 조절
 - Epoch 조절
 - Validation split 계수 조절
@@ -47,6 +50,8 @@
 
 
 
-참고
+참고 및 데이터셋 출처
 
 https://github.com/GeorgeBatch/ultrasound-nerve-segmentation
+
+https://www.kaggle.com/c/ultrasound-nerve-segmentation/overview
