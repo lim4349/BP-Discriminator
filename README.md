@@ -49,6 +49,13 @@
 - Activation 함수 변경 
 
 
+#### 데이터셋 이미지
+
+[![image.png](https://i.postimg.cc/NGVPgPn4/image.png)](https://postimg.cc/s1YJmKsQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![image.png](https://i.postimg.cc/2yFqXtLD/image.png)](https://postimg.cc/bSrNZ3RC) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실제 환자 초음파 이미지&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;학습을 통해 얻은 마스킹 이미지
+
 
 참고 및 데이터셋 출처
 
