@@ -80,6 +80,7 @@
 
 #### 실험 결과
 train데이터르 이용하여 validation의 dice coefficient(다이스 계수)를 측정한 결과이다)
+
 test셋은 kaggle에서 채점하기에 기입하지 않는다.
 
 [![no-earlystopping.png](https://i.postimg.cc/GhwCzQCX/no-earlystopping.png)](https://postimg.cc/JtqvzjtX)
